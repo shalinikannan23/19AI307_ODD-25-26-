@@ -16,7 +16,7 @@ To demonstrate stream chaining in Java by combining `InputStreamReader` and `Buf
 ## PROGRAM:
   ```
 /*
-Program to implement a conditional statement using Java
+Program to implement a input stream reader using Java
 Developed by: SHALINI K
 RegisterNumber:  212222240095
 */
@@ -54,3 +54,4 @@ public class ChainingStreamsExample {
 
 ## RESULT:
 The program successfully reads multiple lines of user input using chained input streams and prints the user details. It demonstrates effective use of `BufferedReader` wrapped around `InputStreamReader` for fast and efficient input handling.
+
