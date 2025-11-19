@@ -21,7 +21,7 @@ To write a Java program that serializes a list of `Student` objects into a file 
 ## PROGRAM:
  ```
 /*
-Program to implement a conditional statement using Java
+Program to implement a serialization and deserialization using Java
 Developed by: SHALINI K
 RegisterNumber:  212222240095
 */
@@ -121,3 +121,4 @@ public class StudentSerializationUserInput {
 
 ## RESULT:
 The program successfully serializes a list of dynamically entered student objects into a file and retrieves them back through deserialization, verifying Java’s object persistence mechanism.
+
