@@ -24,7 +24,7 @@ To simulate multiple concurrent deposits into a shared bank account using thread
 ## PROGRAM:
  ```
 /*
-Program to implement a conditional statement using Java
+Program to implement a multi-thread synchronization using Java
 Developed by: SHALINI K
 RegisterNumber:  212222240095
 */
@@ -88,3 +88,4 @@ public class Main {
 
 ## RESULT:
 The program safely performs concurrent deposits using synchronized access and prints the correct final balance.
+
